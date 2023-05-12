@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Luiz
+-Profissão: Estudante
+-Cidade: Americana-SP
+-O que faz nas horas vaga: Jogo, vejo série, filme, vídeos no youtube.
+-Feedback sobre o curso Qualidade de Software: Até o momento, muito bom.
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa, profissionais atenciosos.
 
 Obrigado!!!
 
